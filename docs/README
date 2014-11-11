@@ -1,0 +1,13 @@
+data/’raw_listings.csv’ is the raw data of house listings input by listers
+
+data/’verifications.csv’ is the data input to the quality control module by seekers
+
+data/’qc_listings.csv’ is the output from the quality control module. It consists of the updated listing data along with lister ratings
+
+data/’preferences.csv’ is the data input to the aggregation module.  In contains the ranked preferences of seekers over the houses in the updated listing
+
+data/’assignments.csv’ is the list of the seeker-house assignments output by the aggregation module 
+
+
+ 
+
