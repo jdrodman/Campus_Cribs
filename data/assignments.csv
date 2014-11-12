@@ -1,1 +1,8 @@
-seeker_email,current_house_id,assigned_house_idabaitch@seas.upenn.edu,h01,h02jsmith@sas.upenn.edu,h02,h01jrodman@sas.upenn.edu,h03,h05cn@sas.upenn.edu,h04,h04ab@wharton.upenn.edu,h05,h06xyz@seas.upenn.edu,h06,h03lmn@sas.upenn.edu,h07,h07
+seeker_email,current_house_id,assigned_house_id
+jrodman@sas.upenn.edu,h03,h05
+jsmith@sas.upenn.edu,h02,h02
+abaitch@seas.upenn.edu,h01,h03
+stud2@upenn.edu,h07,h01
+stud1@upenn.edu,h06,h06
+ab@wharton.upenn.edu,h05,h04
+cn@sas.upenn.edu,h04,h07
