@@ -1,8 +1,1 @@
-House ID,Address,Bedrooms,Bathrooms,Blocks from Campus,Central AC,Parking Space,Washer/Dryer,Condition 1-5,Avg Rent / Rm,Ammenities,Landlord
-2015F01,4013 Pine,8,2,2,0,0,1,2,875,New Kitchen,University Enterprises
-2015F02,4019 Pine,8,5,2,1,1,1,5,,Backyard/Parking,
-2015F03,4000 Pine Apt 3R,4,2,2,1,0,1,5,950,,University Enterprises
-2015F04,3916 Delancey,4,2,0.5,1,1,1,3,1000,Backyard,
-2015F05,219 South 41st Apt A,2,2,2,1,0,1,3,,Chancellor Backlot Access,
-2015F06,4008 Pine,6,3,3,0,0,1,5,950,,
-2015F07,411 South 40th,5,3,1.5,0,0,1,3,875,Backyard,
+lister_email,address,bedrooms,bathrooms,blocks_from_campus,condition_rating,avg_rent_ppm,landlord,ammenities,notesabaitch@seas.upenn.edu,4013 Pine,8,2,2,2,875,University Enterprises,Washer/Dryer,jsmith@sas.upenn.edu,4019 Pine,8,5,2,5,750,Campus Apartments,"Backyard, Parking",jrodman@sas.upenn.edu,4000 Pine Apt 3R,4,2,2,5,950,Campus Apartments,Central A/C,cn@sas.upenn.edu,3916 Delancey,4,2,0.5,3,1000,University Enterprises,"Washer/Dryer, Central A/C, Parking",new kitchenab@wharton.upenn.edu,219 South 41st Apt A,2,2,2,3,900,Other,Parking,xyz@seas.upenn.edu,4008 Pine,6,3,3,5,950,Other,,lmn@sas.upenn.edu,411 South 40th,5,3,1.5,3,875,Campus Apartments,Backyard,
